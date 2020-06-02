@@ -1,11 +1,10 @@
 {
   "expo": {
-    "name": "meuApp",
+    "name": "MedidorAguae",
     "slug": "meuApp",
     "platforms": [
       "ios",
-      "android",
-      "web"
+      "android"
     ],
     "version": "1.0.0",
     "orientation": "portrait",
@@ -23,6 +22,9 @@
     ],
     "ios": {
       "supportsTablet": true
+    },
+    "android":{
+      "package": "com.estubala.medidaragua"
     }
   }
 }
