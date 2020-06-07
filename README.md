@@ -1,4 +1,4 @@
-# Medidor-Agua
+# Consumo de água diario 
 
 Pequena aplicação criada em ReactNative para estudos,
 
